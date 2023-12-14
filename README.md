@@ -1,4 +1,4 @@
-Intented for FDM printing, Adjust scaling as needed. 
+Intented for FDM printing, Adjust scaling as needed. Print with the circular side facing down on the build plate. 
 
 Links to the original designs: 
 
